@@ -1,9 +1,9 @@
 ---
 home: true
 features:
-- title: Embedded Vue Counter
-  details: A Vue counter developed using Vue is embedded in this doc, now thats the power of VuePress!
-- title: Fun Docs made with VuePress
-  details: This entire doc was basically made with VuePress which parsed markdown files and corresponding assets using webpack.
-footer: Developed using VuePress by William Imoh
+- title: 
+  details: JHOS เป็นระบบที่พัฒนาขึ้นมาเพื่อให้การสนับสนุนโรงพยาบาลชุมชนที่ต้องการ มีระบบไอทีช่วยงาน และไม่พร้อมทางด้านงบประมาณ ช่วยลดค่าใช้จ่ายในด้านการจัดการเอกสาร รวมทั้งลดความผิดพลาดและการทำงานที่ซ้ำซ้อนได้ทั้งนี้เพื่อเพิ่มประสิทธิภาพและคุณภาพด้านการบริการและการรักษาให้ดียิ่งขึ้น 
+- title: Free Software
+  details: โปรแกรมที่สามารถนำไปใช้งานได้โดยไม่มีค่าใช้จ่าย ออกแบบให้ทำงานได้บนหลายระบบปฏิบัติการที่รองรับ Java  (อาทิ Windows, Unix, Linux) เป็น Web-Based Application ที่ทำงานผ่านเว็บเบราเซอร์ ใช้ระบบจัดการฐานข้อมูล MySQL และพัฒนาโดยภาษา Java
+footer: Developed using VuePress by https://ict.moph.go.th
 ---

@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'JHOS Manual',
-  description: "A demo documentation using VuePress",
+  title: 'JHOS',
+  description: "โปรแกรมระบบงานโรงพยาบาล",
   themeConfig: {
     nav: [
       { text: 'คู่มือผู้ใช้', link: '/user-manual/' },
@@ -13,7 +13,10 @@ module.exports = {
         collapsable: false,
         children: [
           '/user-manual/login',
-          '/user-manual/patient-new'
+          '/user-manual/menu-left',
+          '/user-manual/visit-register',
+          '/user-manual/patient-new',
+          '/user-manual/fromword'
         ]
       },
       {
