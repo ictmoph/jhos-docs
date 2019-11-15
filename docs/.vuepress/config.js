@@ -1,5 +1,7 @@
 module.exports = {
-  title: 'JHOS',
+  // port: 4000,
+  // base: '/',
+  title: 'คู่มือ JHOS',
   description: "โปรแกรมระบบงานโรงพยาบาล",
   themeConfig: {
     nav: [
@@ -12,11 +14,24 @@ module.exports = {
         title: 'คู่มือผู้ใช้',
         collapsable: false,
         children: [
+          '/user-manual/fromword',
           '/user-manual/login',
           '/user-manual/menu-left',
           '/user-manual/visit-register',
           '/user-manual/patient-new',
-          '/user-manual/fromword'
+          '/user-manual/patient-update',
+          '/user-manual/doctor-room',
+          '/user-manual/diag-opd',
+          '/user-manual/register-ipd',
+          '/user-manual/appoint',
+          '/user-manual/drug-opd',
+          '/user-manual/lab',
+          '/user-manual/x-ray-opd',
+          '/user-manual/operation-opd',
+          '/user-manual/therapy',
+          '/user-manual/servexpense-opd',
+          '/user-manual/summary-expense-opd',
+          '/user-manual/printdaemon'
         ]
       },
       {
