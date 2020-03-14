@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "dev": "vuepress dev --port 5000 docs --temp .temp",
+    "dev": "vuepress dev --port 5000 docs",
     "build": "vuepress build docs --temp .temp"
   },
   "keywords": [],

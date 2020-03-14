@@ -1,6 +1,7 @@
 module.exports = {
   // port: 4000,
-  // base: '/',
+  base: '/docs/',
+  // temp: '../../.temp',
   title: 'คู่มือ JHOS',
   description: "โปรแกรมระบบงานโรงพยาบาล",
   themeConfig: {
