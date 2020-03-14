@@ -22,18 +22,18 @@ pipeline {
                 sh 'npm install'
             }
         }
-        stage('Building app') {
-            steps {
-                sh 'npm run build'
-            }
-        }
-        stage('Upload') { 
-            steps {
-                sshagent(['sshjenken33']) {
-                    sh 'scp -p 2222 -o StrictHostKeyChecking=no docs/.vuepress/dist jenkins@203.157.240.13:/var/www/html/jhos/docs'
-                }
-            }
-        }
+        // stage('Building app') {
+        //     steps {
+        //         sh 'npm run build'
+        //     }
+        // }
+        // stage('Upload') { 
+        //     steps {
+        //         sshagent(['sshjenken33']) {
+        //             sh 'scp -p 2222 -o StrictHostKeyChecking=no docs/.vuepress/dist jenkins@203.157.240.13:/var/www/html/jhos/docs'
+        //         }
+        //     }
+        // }
     }
     post{
         success{
