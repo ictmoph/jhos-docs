@@ -1,8 +1,8 @@
 ---
-title: การตั้งค่า printer 
+title: 400 - การตั้งค่า printer 
 ---
 
-# การตั้งค่า printer 
+# 400 - การตั้งค่า printer 
 
 1. นำไฟล์ javadaemon ลงคอมพิวเตอร์
 2. เปิด Notepad แล้วพิมพ์คำสั่งดังนี้
