@@ -25,7 +25,7 @@ pipeline {
         }
         stage('Building app') {
             steps {
-                sh 'npm run build'
+                sh 'npm run docs:build'
             }
         }
         // stage('Upload') { 
