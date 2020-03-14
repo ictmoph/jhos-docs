@@ -28,13 +28,13 @@ pipeline {
                 sh 'npm run docs:build'
             }
         }
-        // stage('Upload') { 
-        //     steps {
-        //         sshagent(['sshjenken33']) {
-        //             sh 'scp -p 2222 -o StrictHostKeyChecking=no docs/.vuepress/dist jenkins@203.157.240.13:/var/www/html/jhos/docs'
-        //         }
-        //     }
-        // }
+        stage('Upload') { 
+            steps {
+                sshagent(['sshjenken33']) {
+                    sh 'scp -r -p 2222 -o StrictHostKeyChecking=no docs/.vuepress/dist jenkins@203.157.240.13:/var/www/html/jhos/docs'
+                }
+            }
+        }
     }
     post{
         success{
