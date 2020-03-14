@@ -3,9 +3,9 @@ def notifySlack(token, status) {
     def buildNo = env.BUILD_NUMBER
       
     def url = "https://hooks.slack.com/services/${token}"
-    // def message = "Deploy Jhos Docs ${jobName} Build #${buildNo} ${status}"
-    // sh "curl --location --request POST ${url} --header 'Content-Type: application/x-www-form-urlencoded' --data-urlencode 'payload={\"text\":\"${message}\"}'"
-    sh "echo ${url}"
+    def message = "Deploy Jhos Docs ${jobName} Build #${buildNo} ${status}"
+    sh "curl --location --request POST ${url} --header 'Content-Type: application/x-www-form-urlencoded' --data-urlencode 'payload={\"text\":\"${message}\"}'"
+    // sh "echo ${url}"
 }
 
 pipeline {
