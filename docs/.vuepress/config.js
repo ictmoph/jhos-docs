@@ -15,7 +15,6 @@ module.exports = {
         title: 'คู่มือผู้ใช้',
         collapsable: false,
         children: [
-          '/user-manual/fromword',
           '/user-manual/login',
           '/user-manual/menu-left',
           '/user-manual/visit-register',
@@ -32,7 +31,11 @@ module.exports = {
           '/user-manual/therapy',
           '/user-manual/servexpense-opd',
           '/user-manual/summary-expense-opd',
-          '/user-manual/printdaemon'
+          '/user-manual/00-หน้าจอรับผู้ป่วยเข้า-Ward',
+          '/user-manual/01-หน้าจอค้นหาผู้ป่วยใน',
+          '/user-manual/02-หน้าจอค้นหาผู้ป่วยหน้าห้องตรวจ',
+          '/user-manual/printdaemon',
+          '/user-manual/fromword',
         ]
       },
       {
