@@ -2,9 +2,10 @@ def notifySlack(token, status) {
     def jobName = env.JOB_NAME
     def buildNo = env.BUILD_NUMBER
       
-    def url = 'https://hooks.slack.com/services/${token}'
-    def message = "Deploy Jhos Docs ${jobName} Build #${buildNo} ${status}"
-    sh "curl --location --request POST ${url} --header 'Content-Type: application/x-www-form-urlencoded' --data-urlencode 'payload={\"text\":\"${message}\"}'"
+    def url = "https://hooks.slack.com/services/${token}"
+    // def message = "Deploy Jhos Docs ${jobName} Build #${buildNo} ${status}"
+    // sh "curl --location --request POST ${url} --header 'Content-Type: application/x-www-form-urlencoded' --data-urlencode 'payload={\"text\":\"${message}\"}'"
+    sh "echo ${url}"
 }
 
 pipeline {
@@ -22,11 +23,11 @@ pipeline {
                 sh 'npm install'
             }
         }
-        // stage('Building app') {
-        //     steps {
-        //         sh 'npm run build'
-        //     }
-        // }
+        stage('Building app') {
+            steps {
+                sh 'npm run build'
+            }
+        }
         // stage('Upload') { 
         //     steps {
         //         sshagent(['sshjenken33']) {
