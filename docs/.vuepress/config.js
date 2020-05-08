@@ -4,7 +4,7 @@ module.exports = {
   dest: "site",
   // temp: '../../.temp',
   title: 'คู่มือ JHOS',
-  description: "โปรแกรมระบบงานโรงพยาบาล",
+  description: "โปรแกรมระบบงานโรงพยาบาล jhos",
   themeConfig: {
     nav: [
       { text: 'คู่มือผู้ใช้', link: '/user-manual/' },
