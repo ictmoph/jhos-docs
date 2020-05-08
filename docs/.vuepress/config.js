@@ -15,7 +15,6 @@ module.exports = {
         title: 'คู่มือผู้ใช้',
         collapsable: false,
         children: [
-          '/user-manual/000-login.1',
           '/user-manual/000-login',
           '/user-manual/001-menu-left',
           '/user-manual/100-visit-register',
