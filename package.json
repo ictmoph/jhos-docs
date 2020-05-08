@@ -7,13 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "dev": "vuepress dev --port 5000 docs",
-    "build": "vuepress build docs --temp .temp"
+    "dev": "vuepress dev",
+    "build": "vuepress build docs"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^0.5.0"
+    "vuepress": "^1.4.1"
   }
 }
