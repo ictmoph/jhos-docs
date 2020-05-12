@@ -3,3 +3,4 @@ node_modules
 docs/.vuepress/dist
 docs/.vuepress/jhos-docs
 site
+package-lock.json
