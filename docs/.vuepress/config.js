@@ -32,6 +32,7 @@ module.exports = {
           '/user-manual/111-therapy',
           '/user-manual/112-opd-servexpense',
           '/user-manual/113-opd-cost-summary',
+          '/user-manual/114-medical-history',
           '/user-manual/200-receive-patient-to-ward',
           '/user-manual/201-ipd-pateint-search',
           '/user-manual/202-exam-room-patient-search',
