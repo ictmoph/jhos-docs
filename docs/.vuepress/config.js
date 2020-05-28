@@ -46,6 +46,7 @@ module.exports = {
           '/user-manual/209-ipd-diag',
           '/user-manual/210-ipd-claim-edit',
           '/user-manual/211-ipd-servexpense',
+          '/user-manual/212-ipd-move-building',
           '/user-manual/300-finance',
           '/user-manual/301-discharge',
           '/user-manual/400-printdaemon',
