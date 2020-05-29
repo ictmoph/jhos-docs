@@ -49,6 +49,7 @@ module.exports = {
           '/user-manual/212-ipd-move-building',
           '/user-manual/300-finance',
           '/user-manual/301-discharge',
+          '/user-manual/302-cancel-receipt',
           '/user-manual/400-printdaemon',
         ]
       },
