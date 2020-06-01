@@ -47,6 +47,7 @@ module.exports = {
           '/user-manual/210-ipd-claim-edit',
           '/user-manual/211-ipd-servexpense',
           '/user-manual/212-ipd-move-building',
+          '/user-manual/213-ipd-food-order',
           '/user-manual/300-finance',
           '/user-manual/301-discharge',
           '/user-manual/302-cancel-receipt',
