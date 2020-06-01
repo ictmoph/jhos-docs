@@ -48,6 +48,7 @@ module.exports = {
           '/user-manual/211-ipd-servexpense',
           '/user-manual/212-ipd-move-building',
           '/user-manual/213-ipd-food-order',
+          '/user-manual/214-ipd-confirm-food-order',
           '/user-manual/300-finance',
           '/user-manual/301-discharge',
           '/user-manual/302-cancel-receipt',
