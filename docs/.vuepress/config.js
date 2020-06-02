@@ -50,6 +50,7 @@ module.exports = {
           '/user-manual/213-ipd-food-order',
           '/user-manual/214-ipd-confirm-food-order',
           '/user-manual/215-gohome',
+          '/user-manual/216-ipd-cost-summary',
           '/user-manual/300-finance',
           '/user-manual/301-discharge',
           '/user-manual/302-cancel-receipt',
