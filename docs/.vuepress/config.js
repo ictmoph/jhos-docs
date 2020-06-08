@@ -57,6 +57,7 @@ module.exports = {
           '/user-manual/303-export-43file',
           '/user-manual/304-export-eclaim',
           '/user-manual/400-printdaemon',
+          '/user-manual/401-set-operation',
         ]
       },
       {
