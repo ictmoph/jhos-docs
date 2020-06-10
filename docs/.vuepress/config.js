@@ -19,7 +19,7 @@ module.exports = {
           '/user-manual/000-login',
           '/user-manual/001-menu-left',
           '/user-manual/100-visit-register',
-          '/user-manual/101-patient-new',
+          '/user-manual/101-patient-new-new',
           '/user-manual/102-patient-update',
           '/user-manual/103-doctor-exam-room',
           '/user-manual/104-opd-diag',
