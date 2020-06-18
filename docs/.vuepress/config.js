@@ -60,6 +60,7 @@ module.exports = {
           '/user-manual/401-set-operation',
           '/user-manual/402-set-operation-clinic',
           '/user-manual/403-STI',
+          '/user-manual/404-set-code-cost',
       
         ]
       },
