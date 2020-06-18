@@ -59,6 +59,8 @@ module.exports = {
           '/user-manual/400-printdaemon',
           '/user-manual/401-set-operation',
           '/user-manual/402-set-operation-clinic',
+          '/user-manual/403-STI',
+      
         ]
       },
       {
