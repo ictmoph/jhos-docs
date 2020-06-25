@@ -62,6 +62,7 @@ module.exports = {
           '/user-manual/403-STI',
           '/user-manual/404-set-code-cost',
           '/user-manual/501-drug-utilization',
+          '/user-manual/503-drug-allergy',
       
         ]
       },
