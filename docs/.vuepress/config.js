@@ -61,7 +61,6 @@ module.exports = {
           '/user-manual/402-set-operation-clinic',
           '/user-manual/403-STI',
           '/user-manual/404-set-code-cost',
-          '/user-manual/405-admin',
           '/user-manual/501-drug-utilization',
           '/user-manual/502-combine-hn',
           '/user-manual/503-drug-allergy',
