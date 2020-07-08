@@ -73,6 +73,7 @@ module.exports = {
         children: [
           '/config/system',
           '/admin-manual/701-admin-add-user',
+          '/admin-manual/702-admin-add-section',
         ]
       },
       {
