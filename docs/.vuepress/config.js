@@ -74,6 +74,8 @@ module.exports = {
           '/config/system',
           '/admin-manual/701-admin-add-user',
           '/admin-manual/702-admin-add-section',
+          '/admin-manual/703-admin-add-clinic',
+
         ]
       },
       {
