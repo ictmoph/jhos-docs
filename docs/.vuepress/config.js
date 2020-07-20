@@ -76,6 +76,7 @@ module.exports = {
           '/admin-manual/702-admin-add-section',
           '/admin-manual/703-admin-add-clinic',
           '/admin-manual/704-admin-add-report',
+          '/admin-manual/705-admin-add-user',
 
         ]
       },
