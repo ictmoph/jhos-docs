@@ -78,6 +78,7 @@ module.exports = {
           '/admin-manual/704-admin-add-report',
           '/admin-manual/705-admin-add-user',
           '/admin-manual/706-admin-add-group-user',
+          '/admin-manual/707-admin-add-user-menu',
 
         ]
       },
