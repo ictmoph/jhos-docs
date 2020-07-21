@@ -80,6 +80,7 @@ module.exports = {
           '/admin-manual/706-admin-add-group-user',
           '/admin-manual/707-admin-add-user-menu',
           '/admin-manual/708-admin-add-prescription-clinic',
+          '/admin-manual/709-admin-add-set-default',
 
         ]
       },
