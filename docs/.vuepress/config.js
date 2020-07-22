@@ -64,6 +64,8 @@ module.exports = {
           '/user-manual/501-drug-utilization',
           '/user-manual/502-combine-hn',
           '/user-manual/503-drug-allergy',
+          '/user-manual/504-drug-allergy-notify',
+          '/user-manual/505-print-drug',
           '/user-manual/506-epidemic-surveillance',
         ]
       },
