@@ -56,6 +56,7 @@ module.exports = {
           '/user-manual/302-cancel-receipt',
           '/user-manual/303-export-43file',
           '/user-manual/304-export-eclaim',
+          '/user-manual/307-export-billdisp',
           '/user-manual/400-printdaemon',
           '/user-manual/401-set-operation',
           '/user-manual/402-set-operation-clinic',
