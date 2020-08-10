@@ -88,6 +88,11 @@ module.exports = {
           '/admin-manual/admin-config/708-admin-add-prescription-clinic',
           '/admin-manual/admin-config/709-admin-add-set-default',
           '/admin-manual/admin-drug/',
+          '/admin-manual/admin-drug/710-admin-report-drug',
+          '/admin-manual/admin-drug/711-admin-drug-set',
+          '/admin-manual/admin-drug/712-admin-use-drug',
+          '/admin-manual/admin-drug/713-admin-drug-interaction',
+
 
         ]
       },
