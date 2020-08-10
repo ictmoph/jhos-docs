@@ -70,6 +70,7 @@ module.exports = {
           '/user-manual/506-epidemic-surveillance',
           '/user-manual/509-community-service',
           '/user-manual/510-Health-assessment',
+          '/user-manual/513-Medication-summary',
         ]
       },
       {
