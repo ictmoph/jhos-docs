@@ -59,6 +59,7 @@ module.exports = {
           '/user-manual/305-export-F12',
           '/user-manual/306-export-F12-sss',
           '/user-manual/307-export-billdisp',
+          '/user-manual/308-report-finance',
           '/user-manual/400-printdaemon',
           '/user-manual/401-set-operation',
           '/user-manual/402-set-operation-clinic',
