@@ -75,6 +75,7 @@ module.exports = {
           '/user-manual/509-community-service',
           '/user-manual/510-Health-assessment',
           '/user-manual/513-Medication-summary',
+          '/user-manual/517-report-medical-record',
         ]
       },
       {
