@@ -74,6 +74,7 @@ module.exports = {
           '/user-manual/507-aid-finance',
           '/user-manual/509-community-service',
           '/user-manual/510-Health-assessment',
+          '/user-manual/512-dental-clinic',
           '/user-manual/513-Medication-summary',
           '/user-manual/516-report-drug',
           '/user-manual/517-report-medical-record',
