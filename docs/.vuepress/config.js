@@ -71,6 +71,7 @@ module.exports = {
           '/user-manual/504-drug-allergy-notify',
           '/user-manual/505-print-drug',
           '/user-manual/506-epidemic-surveillance',
+          '/user-manual/507-aid-finance',
           '/user-manual/509-community-service',
           '/user-manual/510-Health-assessment',
           '/user-manual/513-Medication-summary',
