@@ -78,6 +78,7 @@ module.exports = {
           '/user-manual/511-specialPP',
           '/user-manual/512-dental-clinic',
           '/user-manual/513-Medication-summary',
+          '/user-manual/514-Medical-certificate',
           '/user-manual/516-report-drug',
           '/user-manual/517-report-medical-record',
           '/user-manual/518-report-lab',
